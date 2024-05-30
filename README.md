@@ -19,23 +19,14 @@
 
 ### Задание 1
 
-
-![Screenshot 1](https://github.com/aazh94/gitlab_homework/blob/main/gitlab_homework/runner.png)`
-![Screenshot 2](https://github.com/aazh94/gitlab_homework/blob/main/gitlab_homework/runner%20settings.png)`
-
+![Screenshot 1](https://github.com/aazh94/gitlab_homework/blob/main/gitlab_homework/runner.png)
+![Screenshot 2](https://github.com/aazh94/gitlab_homework/blob/main/gitlab_homework/runner%20settings.png)
 
 ---
 
 ### Задание 2
 
-
-![Screenshot 1](https://github.com/aazh94/gitlab_homework/blob/main/gitlab_homework/pipeline2.png)`
-![Screenshot 2](https://github.com/aazh94/gitlab_homework/blob/main/gitlab_homework/pipeline3.png)`
-
+![Screenshot 1](https://github.com/aazh94/gitlab_homework/blob/main/gitlab_homework/pipeline2.png)
+![Screenshot 2](https://github.com/aazh94/gitlab_homework/blob/main/gitlab_homework/pipeline3.png)
 
 ---
-
-=======
-# test
-# test
->>>>>>> a0a3fb54b09d08773c1fca095cee34591ddb672e
